@@ -107,3 +107,11 @@ We would like to thank the Supreme Court of India Hackathon 2024 for providing t
 - Vishwas Dubey
 - Yash Kavaiya
 
+## Implementation verified from source
+
+The application lives under `SupremeAI-Chatbot`. It is a Flask web application with `main.py`, a Jinja template, CSS, image assets, and a Dockerfile. The repository also includes architecture artwork and chatbot test-case documentation.
+
+## Current status
+
+This is a legal-information chatbot prototype. Review legal disclaimers, model/provider configuration, privacy handling, and test coverage before presenting it as legal advice or deploying it publicly.
+
